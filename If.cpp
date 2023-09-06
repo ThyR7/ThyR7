@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-	int i=12,j;
+	int i=12;
 	cin>>i;
 	if (i<12)
 		cout<<"i<12";
