@@ -7,7 +7,7 @@ We shall explore this process with the meticulous attention of a mathematician f
 
 - Open your web browser, that virtual gateway to the digital universe.
 
-- Navigate to the hallowed halls of the MinGW official website, a realm where C++ craftsmanship is celebrated: [MinGW](www.mingw.com).
+- Navigate to the hallowed halls of the MinGW official website, a realm where C++ craftsmanship is celebrated: [MinGW](https://www.mingw.com).
 
 - Like a seeker choosing a path through a dense forest, find your way to the "Downloads" section.
 
