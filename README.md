@@ -59,7 +59,7 @@ We shall explore this process with the meticulous attention of a mathematician f
 - Like a writer beginning a new chapter, create a C++ source file (e.g., main.cpp) in your project folder. You can do this by right-clicking on the folder and selecting "New File."
 ## 5. Write Your C++ Code
 - With the grace of a poet putting pen to paper, craft your C++ code within the source file. This code shall be your composition, ready to be transformed into a musical performance by the compiler.
-```
+```cpp
 #include<iostream>
 #include<conio.h>
 using namespace std;
