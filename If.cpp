@@ -12,5 +12,6 @@ int main(){
 	else
 		cout<<"i==12";
 	getch();
+	
 	return 0;
 }
