@@ -4,8 +4,8 @@
 
 1. Just Navigate to `settings` or `Ctrl + ,` and search for
    	- `C_Cpp.default.compilerPath` and set it to your compiler full path.
+	- Path is like `\MinGW\bin\g++.exe`.
    	- `C_Cpp.codeAnalysis.clangTidy.useBuildPath` to true.
-3. Path is like `\MinGW\bin\g++.exe`
 4. Then open VSCode and make a file named `first.cpp`
 5. Write your cpp code here.
    ```cpp
@@ -22,7 +22,7 @@
 6. Goto Run and select `Run withour debugging` or `Ctrl + F5`
 7. Select compiler from list.
 
-8. If `.vscode/tasks.json` not made automatocally, you can copy paste it from here.
+8. If `.vscode/tasks.json` (A file named tasks.json in .vscode folder in your working directory) not made automatically, you can copy paste it from here.
    ```json
 	{
     	"tasks": [
